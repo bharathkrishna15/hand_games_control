@@ -13,4 +13,4 @@ Control games using real-time hand gestures via your webcam! This project uses *
 Install dependencies using pip:
 
 pip install opencv-python mediapipe pyautogui
-# hand_games_control
+
